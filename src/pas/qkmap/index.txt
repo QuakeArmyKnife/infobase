@@ -1,4 +1,0 @@
-title: QkMap.pas
-desc: maploading
-
-Definition of Map objects; loading and writing .map files.

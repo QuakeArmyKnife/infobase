@@ -1,3 +1,0 @@
-title: Map loading
-author: Armin Rigo
-
