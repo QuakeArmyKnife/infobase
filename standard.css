@@ -91,21 +91,7 @@ DD {
 }
 
 SPAN.added {
-  font-family: Small Fonts;
   font-size: 6pt;
-  color: #AAAAAA;
-}
-
-OL {
-  font-family: Verdana, Arial;
-  font-size: 10pt;
-  color: #000000;
-}
-
-.doccode {
-  font-family: Courier New, Courier;
-  font-size: 10pt;
-  color: #000088;
 }
 
 /*Below added by Armin*/
