@@ -1,6 +1,0 @@
-title: Introduction to QuArK
-subdir: faq
-subdir: basicknowledge
-subdir: configuration
-subdir: mapeditor
-subdir: texturebrowser

@@ -1,5 +1,0 @@
-title: Texture-browser in QuArK
-subdir: overview
-subdir: menu
-subdir: details
-subdir: tutorials

@@ -1,4 +1,0 @@
-title: Compass and Zoom
-desc: xaxis
-desc: yaxis
-desc: zoom

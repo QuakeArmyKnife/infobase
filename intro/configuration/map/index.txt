@@ -1,7 +1,0 @@
-title: Map
-desc: mouse
-desc: keys
-desc: options
-desc: building
-desc: display
-desc: colors

@@ -1,4 +1,0 @@
-title: QkQ3A.pas
-desc: shaders
-
-Code specific to Quake 3.

@@ -1,3 +1,0 @@
-title: Tutorials
-author: Decker
-desc: texturelinks

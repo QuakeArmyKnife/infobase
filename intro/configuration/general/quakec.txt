@@ -1,5 +1,0 @@
-title: QuakeC
-author: Decker
-
-<img align=right>quakec.png</img>
-Controls syntax-highlighting in <g>QuakeC</g> source-code.
